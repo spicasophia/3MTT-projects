@@ -1,5 +1,4 @@
-# Assignment 1
-
+# Mini Project 1
 
 ## How I went about the project
 1. I went to vscode.dev on my mobile phone to access the mobile web version of Visual Studio Code for the task
